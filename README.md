@@ -5,12 +5,13 @@
 🌱 I’m currently learning Rust, Flutter, Vulkan and studing software development.
 
 💻 Technologies that I use:
-- Python ⚡⚡⚡
+- Python ⚡⚡⚡⚡
 - Linux ⚡⚡⚡
-- MacOS ⚡⚡
-- C++14/Rust ⚡⚡
+- C++14/Rust ⚡⚡⚡
+- Unity ⚡⚡⚡
 - Flutter ⚡⚡
-- Unity ⚡⚡
+- MacOS ⚡⚡
+
 - OpenGL/Vulkan ⚡
 
 📫 You can reach me at:<br>
