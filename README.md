@@ -7,10 +7,11 @@
 💻 Technologies that I use:
 - Python ⚡⚡⚡⚡
 - Linux ⚡⚡⚡
-- C++14/Rust ⚡⚡⚡
+- C++14 ⚡⚡⚡
+- Java ⚡⚡⚡
 - Unity ⚡⚡⚡
 - Flutter ⚡⚡
-- MacOS ⚡⚡
+- Rust ⚡
 
 - OpenGL/Vulkan ⚡
 
