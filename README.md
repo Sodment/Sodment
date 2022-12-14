@@ -1,8 +1,8 @@
 ### Hi there, I'm Paweł Koch (Sodment) 👋
 
-🔭 I’m Computer Science student and a developer from Poland
+🔭 I’m Computer Science student from Poland
 
-🌱 I’m currently learning Rust, Flutter, Vulkan and studing computer science
+🌱 I’m currently learning Rust & Vulkan and studing computer science
 
 💼 Currently working at Intel as a Graphics Software Developer Intern
 
@@ -12,10 +12,9 @@
 - C++14 ⚡⚡⚡
 - Java ⚡⚡⚡
 - Unity ⚡⚡⚡
+- OpenGL/Vulkan ⚡⚡
 - Flutter ⚡⚡
 - Rust ⚡
-
-- OpenGL/Vulkan ⚡
 
 📫 You can reach me at:<br>
 [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-koch-032149178/)
