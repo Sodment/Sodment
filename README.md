@@ -10,9 +10,9 @@
 - Python ⚡⚡⚡⚡
 - Linux ⚡⚡⚡
 - C++14 ⚡⚡⚡
-- Java ⚡⚡⚡
 - Unity ⚡⚡⚡
-- OpenGL/Vulkan ⚡⚡
+- OpenGL/Vulkan ⚡⚡⚡
+- Java ⚡⚡
 - Flutter ⚡⚡
 - Rust ⚡
 
