@@ -10,6 +10,7 @@
 - Python ⚡⚡⚡⚡
 - Linux ⚡⚡⚡
 - C++14 ⚡⚡⚡
+- C# ⚡⚡⚡
 - Unity ⚡⚡⚡
 - OpenGL/Vulkan ⚡⚡⚡
 - Java ⚡⚡
