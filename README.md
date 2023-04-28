@@ -2,7 +2,7 @@
 
 🔭 I’m Computer Science student from Poland
 
-🌱 I’m currently learning Rust & Vulkan and studing computer science
+🌱 I’m currently learning more about Vulkan and pursuing my Master's Degree
 
 💼 Currently working at Intel as a Graphics Software Developer Intern
 
@@ -12,9 +12,7 @@
 - C++14 ⚡⚡⚡
 - C# ⚡⚡⚡
 - Unity ⚡⚡⚡
-- OpenGL/Vulkan ⚡⚡⚡
-- Java ⚡⚡
-- Flutter ⚡⚡
+- Vulkan ⚡⚡
 - Rust ⚡
 
 📫 You can reach me at:<br>
