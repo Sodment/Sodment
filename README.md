@@ -2,9 +2,9 @@
 
 🔭 I’m Computer Science student from Poland
 
-🌱 I’m currently learning more about Vulkan and pursuing my Master's Degree
+🌱 I’m currently learning more about Computer Graphics and pursuing my Master's Degree
 
-💼 Currently working at Intel as a Graphics Software Developer Intern
+💼 Currently working at Virtuos as Junior Graphics Programmer
 
 💻 Technologies that I use:
 - Python ⚡⚡⚡⚡
